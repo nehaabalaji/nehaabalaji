@@ -7,13 +7,17 @@
 
 > I’m passionate about coding, technology, and building meaningful projects. Currently exploring Data Science, Machine Learning, and AI.
 
-> Currently learning: C++, Python, R, Java, and SQL  
-> Interests: Coding, AI/ML, and Building Projects  
+> Currently learning: C++, Python, R, Java, and SQL
+> 
+> Interests: Coding, AI/ML, and Building Projects
+> 
 > Fun fact: I love tackling coding challenges and learning new technologies every day!
 
 ## 💻 Technical Skills
 > **Languages:** Python, C++, R
+> 
 > **Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, PyTorch, TensorFlow, Keras, scikit-learn, XGBoost
+> 
 > **Tools & IDEs:** Xcode, Google Colab, Git/GitHub, Visual Studio Code, PyCharm, Power BI, Jupyter Notebook
 
 ## 📫 Connect with Me
