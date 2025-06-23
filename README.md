@@ -6,9 +6,7 @@
      style="border-radius: 15px; border: 3px solid #ff69b4;" />
 
 > I’m passionate about coding, technology, and building meaningful projects. Currently exploring Data Science, Machine Learning, and AI.
-
-> Currently learning: C++, Python, R, Java, and SQL
-> 
+ 
 > Interests: Coding, AI/ML, and Building Projects
 > 
 > Fun fact: I love tackling coding challenges and learning new technologies every day!
