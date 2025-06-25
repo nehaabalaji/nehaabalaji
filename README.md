@@ -20,6 +20,6 @@
 
 ## 📫 Connect with Me
 - **Email:** nehaabalaji5@gmail.com  
-- **LinkedIn:** [linkedin.com/in/nehaabalaji](https://www.linkedin.com/in/nehaabalaji)
+- **LinkedIn:** https://www.linkedin.com/in/nehaa-balaji/
 
 
